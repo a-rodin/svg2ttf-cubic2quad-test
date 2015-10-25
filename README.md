@@ -1,4 +1,4 @@
-Two simple programs that allows to test cubic2Quad converter from svg2ttf package.
+Two simple programs that allow to test cubic2Quad converter from svg2ttf package.
 
 The first one is bezier_math.js. It tries to use cubic2Quad function to approximate
 cubic BezerCurve. It outputs the results of approximation into data/subdirectory. 
