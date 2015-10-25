@@ -3,8 +3,8 @@
     "license": "MIT",
     "repository": "https://github.com/a-rodin/svg2ttf-cubic2quad-test",
     "dependencies": {
-        "svg2ttf": "*",
-        "svgpath": "*",
-        "xmldom": "*"
+        "svg2ttf": "https://github.com/a-rodin/svg2ttf",
+        "svgpath": "2.0.0",
+        "xmldom": "0.1.19"
     }
 }
